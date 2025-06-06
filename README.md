@@ -104,7 +104,7 @@ Este sistema simula de forma prática um gerenciamento completo de jogadores de 
 ---
 
 ## 👤 Desenvolvido por
-**Enrico, Luiz Guilherme e Mateus de Castro Aguiar**  
+**Enrico Gomes Oliveira, Luiz Guilherme Vilaça de Moraes e Mateus de Castro Aguiar**  
 Programação de Soluções Computacionais
 Avaliação A3
 
