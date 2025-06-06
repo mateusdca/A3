@@ -45,7 +45,7 @@ O projeto também inclui um diagrama de classes UML representando a estrutura e 
 1. Compile todos os arquivos.
 
 
-2. Execute o programa
+2. Execute o programa na classe `Main.java`.
 
 3. No terminal, será exibido um menu com as opções disponíveis para criar, listar e editar jogadores.
 
@@ -105,5 +105,6 @@ Este sistema simula de forma prática um gerenciamento completo de jogadores de 
 
 ## 👤 Desenvolvido por
 **Enrico, Luiz Guilherme e Mateus de Castro Aguiar**  
+Programação de Soluções Computacionais
 Avaliação A3
 
